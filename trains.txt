@@ -1,0 +1,3 @@
+12345,1,Bardhaman,Durgapur,30,1
+12786,4,Sealdah,Durgapur,50,0
+12121,3,Durgapur,Howrah,200,0
